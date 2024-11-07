@@ -1,0 +1,44 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 960px;
+    margin: auto;
+}
+
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+#setGridSize {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(0, 0, 0);
+    background: rgba(255, 0, 43, 0.616);
+    border-radius: 24px;
+    width: 300px;
+    height: 75px;
+    margin-bottom: 30px;
+}
+
+#clearButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(0, 0, 0);
+    background: rgba(255, 0, 43, 0.616);
+    border-radius: 24px;
+    width: 300px;
+    height: 75px;
+    margin-bottom: 30px;
+}

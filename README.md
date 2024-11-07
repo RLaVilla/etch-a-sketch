@@ -1,1 +1,1 @@
-# etch-a-sketch
+In this Etch-A-Sketch project, I will be building a webpage with a 16 x 16 grid. The divs (representing each individual square in the grid) will turn a different color when hovered over. A pixelated trail will be left as the mouse moves through the grid. There will be a button thats prompts the user to enter a number from 1-100. Whatever that number is, a grid will be created with the entered number being the number of squares on each side. For example, if a user enters 24, the webpage will remove the old grid and load a 24 x 24 grid.
